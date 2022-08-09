@@ -1,0 +1,64 @@
+1 sum and average
+2 character recogniser
+3 prime checker
+4 calculator
+5 currency adder
+6 distance adder
+7 employee data 
+8 Function Overloading
+9 Function Overloading (Area)
+10 Inline Functions
+11 recursion
+12 person class
+
+
+
+1)Accept two numbers, find their sum and average
+2)Program to identify if an input is a symbol, digit or character
+3)Write a Program to enter a number & check whether it’s a prime no. or not.
+4)To perform the basic Arithmetic operations & use the concept of typecasting
+5)Create variables for currency (rupees, paise) and add two variables and put result in third variable.
+6)Create a structure of type distance; take two variables of type distance. Add their values and assign to third variable and print
+7)Write a program to construct a structure called employee that contains two members, employee number of type integer &employee compensation of type float. Now ask the user to fill this data for three employees, store it in three variables of typed employee & then display the information for each employee.
+8)Program to overload printline() or repchar() function. Write at least three versions of the function.
+9)WAP to create two functions area() for calculating area of a circle, rectangle. Use function overloading and switch-case statement.
+10)WAP to create Inline function to find greatest of two numbers
+11)WAP to find sum of digits of a number using recursion
+12)WAP to create a class ‘distance’ with two data members (feet,inches) and member functions (setdist(), showdist()).
+13)WAP to create a class ‘person’ with two data members (name, age) and two member functions (getdata(), display()). Create objects of class person and show the usage of functions through objects
+14)WAP to create a class account with data members (name, ID, account_no, principle, time, interest). Write member functions
+• Getdata(): reads value for name, ID, account_no, principle, time
+• Find_interest();
+• Display()
+Take ROI as a global constant. Create two objects and find interest earned by them. Display the relevant details.
+15)WAP to create a class student with data members (name, eno, course, marks[5], percentage, grade (A if percentage>=80 else B if percentage>=60, else C). Write member functions
+
+Getdata(); // reads value for name, eno, course, marks[5]
+Find_data();// calculates % and grade
+Display()
+Create an array of 5 objects, get their data, evaluate results and display.
+16)Design a Counter class to explain the concept of default constructor
+17)Design a class Distance with two private data members to store the distance in inches & feet. Implement constructors (default, parameterized) and find sum of two Distance objects using member function sum_dist(Distance,Distance)
+18)WAP to initialize objects of Distance class using default copy constructor
+19)WAP to initialize objects of alpha class using user-defined copy constructor
+20)WAP to define a class stack with push(), pop(), display() functions.
+21)WAP to make mean() as friend function of a class sample.
+22)WAP to explain the use of friend function with two classes- alpha, beta.
+23)WAP to create 2 classes Husband & Wife with data members: name, age, salary. Write code for default, parameterized constructor, display() & calculate total annual salary using a friend function .
+24)WAP to define a String class with constructors (default, parameterized, copy), destructor, display(), concat() functions
+25)WAP to use class string of C++ and explain the use of its member functions: erase(), replace(), insert(), append(), size(), find()
+26)WAP to implement Counter Class and write operator overloading code for pre-increment/decrement and post-increment/decrement operators
+27)WAP to overload add operator (+) to add objects of user-defined Distance class
+28)WAP to overload == operator, to compare two of our user-defined String objects, returning true if they’re the same and false if they’re different
+29)WAP to overloaded binary operator + with an arithmetic assignment operator: the +, =, += operators for Distance class
+30)WAP to overload add operator (+) to concatenate objects of user-defined String class
+31)WAP to overload comparison operator (>) to compare objects of distance class with feet & inches
+32)WAP to implement a base class Counter and a derived class CountDn to include pre-decrement operation
+33)WAP to implement a class Stack for implementing an array stack with basic operations. Extend it by creating a class Stack2 that checks overflow and underflow conditions.
+34)WAP to implement a base class Distance and a derived class to include sign for distances
+35)WAP to explain the concept of hierarchical inheritance (Employee  Manager, Scientist)
+36)WAP to explain the concept of multiple inheritance with member function overriding (Employee, Student  Manager, Scientist)
+37)WAP to explain the concept of aggregation
+38)WAP to explain the concept of multiple inheritance with constructors (Distance, Type Plank
+39)WAP to explain usage of Virtual functions and virtual destructors
+40)WAP to explain hybrid inheritance (hierarchical+multiple) with at least 4 classes.Also explain the use of virtual function in the parent class.

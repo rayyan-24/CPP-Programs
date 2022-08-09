@@ -1,0 +1,22 @@
+27)WAP to implement Bank_account class with five data members, constructors, getdata(), showdata(). Friend function to calculate simple interest.
+28)WAP to implement Counter Class and write operator overloading code for pre-increment/decrement and post-increment/decrement operators	
+29)WAP to overload add operator (+) to add objects of user-defined Distance class	
+30)WAP to overload add operator (+) to concatenate objects of user- defined String class	
+31)WAP to overload comparison operator (>) to compare objects of distance class with feet & inches	
+32)WAP to overload == operator, to compare two of our user-defined String objects, returning true if they’re the same and false if they’re different	
+33)WAP to create Distance class. Write Operator Overloading code for +, -, += operators	
+34)WAP to implement two classes for Distance (feet, inches) and Distance_mtr (meter-cm). Write a conversion operator function in Distance_mtr to convert an object of Distance_mtr into an object of Distance. Also write other members of the two classes.	
+35)WAP to implement two classes for Distance (feet, inches) and Distance_mtr (meter-cm). Write a constructor in Distance to convert an object of Distance_mtr into an object of Distance. Also write other members of the two classes.	
+36)WAP to implement a base class Counter and a derived class CountDn to include pre-decrement operation	
+37)WAP to implement a class Stack for implementing an array stack with basic operations. Extend it by creating a class Stack2 that checks overflow and underflow conditions.	
+38)WAP to implement a base class Distance and a derived class to include sign for distances	
+39)WAP to explain the concept of hierarchical inheritance (Employee → Manager, Scientist)	
+40)WAP to explain the concept of multiple inheritance with member function overriding (Employee, Student → Manager, Scientist)	
+41)WAP to explain the concept of aggregation. Define independent classes Student, Employee. Then define an aggregate class Manager and explain its usage in main() function	
+42)WAP to explain the concept of multiple inheritance with constructors (Distance, Type→ Plank)	
+43)WAP to explain usage of Virtual functions and virtual destructors	
+44)WAP to explain hybrid inheritance (hierarchical + multiple) with at least 4 classes. Also explain the use of virtual function in the parent class	
+45)WAP to explain function templates using mathematical “absolute” function	
+46)Create s template class “Stack” and implement stacks of different datatypes	
+47)WAP to write data into a text file and read it back	
+48)WAP to create a binary file to store multiple objects. Also read the data and display it	

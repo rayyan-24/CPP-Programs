@@ -1,0 +1,17 @@
+ Design a class Money with data members (rupees, paise) such that it supports the following statements:
+
+Rupees  r1(1000,50), r2;
+float  Amount = r1; // Convert rupee to float
+r2= Amount; // Convert float to rupee
+Rupees has two data members- rs and p. Write default and parameterized constructors.
+Write code to get the input and display the amount as “Rs.400.60”.
+
+    money(float x)
+    {
+        this->rupees = int(x);
+        this->paisa = x - this->rupees;
+    }
+    operator float()
+    {
+        return float(this->rupees + this->paisa);
+    }
